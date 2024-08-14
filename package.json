@@ -1,6 +1,6 @@
 {
 	"name": "UmaruV4",
-	"version": "40.0.9",
+	"version": "40.0.10",
 	"description": "Facebook Messenger Bot made by John Lester",
 	"main": "index.js",
 	"scripts": {
